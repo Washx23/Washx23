@@ -18,6 +18,4 @@
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Washx23
 &layout=compact&langs_count=7&theme=radical" alt="Washx23
 " />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Washx23
-&layout=compact&langs_count=7&theme=radical"/>
 </div>
