@@ -42,10 +42,5 @@ Actualmente estudio **Licenciatura en Sistemas** y desarrollo proyectos personal
 
 ---
 
-## 🐍 Animación
-![Snake animation]
-
----
-
 ### ✨ Gracias por visitar mi perfil
 Siempre abierto a colaborar, aprender y construir proyectos interesantes.
